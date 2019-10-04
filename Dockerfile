@@ -9,6 +9,7 @@ RUN apk -v --no-cache --update add \
         libaio \
         libnsl \
         make \
+        uwsgi-python3 \
         lsof \
         jq \
         linux-headers \
